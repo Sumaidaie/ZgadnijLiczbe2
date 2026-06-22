@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|c:\\users\\kuzmi\\desktop\\projekt_gra_2_backup\\projekti_gra_2\\projekti_gra_2\\grraa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|solutionrelative:projekti_gra_2\\grraa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|c:\\users\\kuzmi\\desktop\\projekt_gra_2_backup\\projekti_gra_2\\projekti_gra_2\\ustawienia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|solutionrelative:projekti_gra_2\\ustawienia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|c:\\users\\kuzmi\\desktop\\projekt_gra_2_backup\\projekti_gra_2\\projekti_gra_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|solutionrelative:projekti_gra_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|c:\\users\\kuzmi\\desktop\\projekt_gra_2_backup\\projekti_gra_2\\projekti_gra_2\\grabazowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|solutionrelative:projekti_gra_2\\grabazowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|c:\\users\\kuzmi\\desktop\\projekt_gra_2_backup\\projekti_gra_2\\projekti_gra_2\\granewgameplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|solutionrelative:projekti_gra_2\\granewgameplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|c:\\users\\kuzmi\\desktop\\projekt_gra_2_backup\\projekti_gra_2\\projekti_gra_2\\grastandardowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|solutionrelative:projekti_gra_2\\grastandardowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|c:\\users\\kuzmi\\desktop\\projekt_gra_2_backup\\projekti_gra_2\\projekti_gra_2\\zarzadcawynikami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|solutionrelative:projekti_gra_2\\zarzadcawynikami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|c:\\users\\kuzmi\\desktop\\projekt_gra_2_backup\\projekti_gra_2\\projekti_gra_2\\wynik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2106B-0544-E6B4-5536-8041D3849F52}|Projekti_gra_2\\Projekti_gra_2.csproj|solutionrelative:projekti_gra_2\\wynik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grraa.cs",
+              "DocumentMoniker": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\Grraa.cs",
+              "RelativeDocumentMoniker": "Projekti_gra_2\\Grraa.cs",
+              "ToolTip": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\Grraa.cs",
+              "RelativeToolTip": "Projekti_gra_2\\Grraa.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAmwPcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:10:31.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GraStandardowa.cs",
+              "DocumentMoniker": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\GraStandardowa.cs",
+              "RelativeDocumentMoniker": "Projekti_gra_2\\GraStandardowa.cs",
+              "ToolTip": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\GraStandardowa.cs",
+              "RelativeToolTip": "Projekti_gra_2\\GraStandardowa.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:48:15.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraNewGamEplus.cs",
+              "DocumentMoniker": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\GraNewGamEplus.cs",
+              "RelativeDocumentMoniker": "Projekti_gra_2\\GraNewGamEplus.cs",
+              "ToolTip": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\GraNewGamEplus.cs",
+              "RelativeToolTip": "Projekti_gra_2\\GraNewGamEplus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:48:55.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ustawienia.cs",
+              "DocumentMoniker": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\Ustawienia.cs",
+              "RelativeDocumentMoniker": "Projekti_gra_2\\Ustawienia.cs",
+              "ToolTip": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\Ustawienia.cs",
+              "RelativeToolTip": "Projekti_gra_2\\Ustawienia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:12:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Wynik.cs",
+              "DocumentMoniker": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\Wynik.cs",
+              "RelativeDocumentMoniker": "Projekti_gra_2\\Wynik.cs",
+              "ToolTip": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\Wynik.cs",
+              "RelativeToolTip": "Projekti_gra_2\\Wynik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:11:10.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\Program.cs",
+              "RelativeDocumentMoniker": "Projekti_gra_2\\Program.cs",
+              "ToolTip": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\Program.cs",
+              "RelativeToolTip": "Projekti_gra_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:07:45.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZarzadcaWynikami.cs",
+              "DocumentMoniker": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\ZarzadcaWynikami.cs",
+              "RelativeDocumentMoniker": "Projekti_gra_2\\ZarzadcaWynikami.cs",
+              "ToolTip": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\ZarzadcaWynikami.cs",
+              "RelativeToolTip": "Projekti_gra_2\\ZarzadcaWynikami.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:11:31.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grabazowa.cs",
+              "DocumentMoniker": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\Grabazowa.cs",
+              "RelativeDocumentMoniker": "Projekti_gra_2\\Grabazowa.cs",
+              "ToolTip": "C:\\Users\\kuzmi\\Desktop\\Projekt_gra_2_backup\\Projekti_gra_2\\Projekti_gra_2\\Grabazowa.cs",
+              "RelativeToolTip": "Projekti_gra_2\\Grabazowa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:47:44.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
